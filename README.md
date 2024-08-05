@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rakeshraju123
-- 👀 I’m interested in data Science
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail: guntamadugurakesh@gmail.com
